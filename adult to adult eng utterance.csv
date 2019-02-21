@@ -1,0 +1,325 @@
+,id,speaker_id,utterance_order,transcript_id,corpus_id,gloss,num_tokens,stem,part_of_speech,speaker_code,speaker_name,speaker_role,target_child_id,target_child_age,target_child_name,target_child_sex,type,media_end,media_start,media_unit,collection_id,collection_name,num_morphemes,language,corpus_name
+0,1396346,3122,30,3965,43,that's just like Jeffrey had,5,that just like Jeffrey have,pro:dem adj co n:prop v,BOB,Bobbi,Adult,,,,,declarative,,,,3,Eng-NA,7.0,eng,Gathercole
+1,1396376,3140,31,3965,43,here you go Megan,4,here you go Megan,adv pro:per v n:prop,LLE,Lleana,Adult,,,,,declarative,,,,3,Eng-NA,4.0,eng,Gathercole
+2,1570131,3350,79,4358,48,I got a phone xxx,5,I get a phone,pro:sub v det:art n,MA1,Bob,Adult,3276.0,50.493849976385604,,female,declarative,,,,3,Eng-NA,5.0,eng,HSLLD
+3,1570155,3351,80,4358,48,,0,,,FE1,Mary_Housemate,Adult,3276.0,50.493849976385604,,female,declarative,,,,3,Eng-NA,,eng,HSLLD
+4,1570161,3351,81,4358,48,and you remembered me saying that to you huh,9,and you remember me say that to you huh,coord pro:per v pro:obj part pro:rel prep pro:per co,FE1,Mary_Housemate,Adult,3276.0,50.493849976385604,,female,question,,,,3,Eng-NA,11.0,eng,HSLLD
+5,1570201,3350,82,4358,48,well if they want it now anyway they gotta work with Bell phone,13,well if they want it now anyway they gotta work with Bell phone,co conj pro:sub v pro:per adv co pro:sub mod:aux v prep n:prop n,MA1,Bob,Adult,3276.0,50.493849976385604,,female,declarative,,,,3,Eng-NA,13.0,eng,HSLLD
+6,1570388,3350,89,4358,48,but but xxx pay you two bucks an hour,9,but pay you two buck a hour,conj v pro:per det:num n det:art n,MA1,Bob,Adult,3276.0,50.493849976385604,,female,imperative_emphatic,,,,3,Eng-NA,8.0,eng,HSLLD
+7,1570417,3352,90,4358,48,three bucks an hour,4,three buck a hour,det:num n det:art n,MA2,,Adult,3276.0,50.493849976385604,,female,question,,,,3,Eng-NA,5.0,eng,HSLLD
+8,1572926,3350,198,4358,48,vicious kids,2,vicious kid,adj n,MA1,Bob,Adult,3276.0,50.493849976385604,,female,declarative,,,,3,Eng-NA,3.0,eng,HSLLD
+9,1572941,3351,199,4358,48,xxx,1,,,FE1,Mary_Housemate,Adult,3276.0,50.493849976385604,,female,declarative,,,,3,Eng-NA,,eng,HSLLD
+10,1655608,3390,234,4641,48,already read it,3,already read it,adv v pro:per,MAL,,Adult,3276.0,50.42814020821779,,female,declarative,,,,3,Eng-NA,4.0,eng,HSLLD
+11,1655623,3437,235,4641,48,already read it,3,already read it,adv v pro:per,FEM,,Adult,3276.0,50.42814020821779,,female,question,,,,3,Eng-NA,4.0,eng,HSLLD
+12,1655857,3437,248,4641,48,yeah,1,yeah,co,FEM,,Adult,3276.0,50.42814020821779,,female,declarative,,,,3,Eng-NA,1.0,eng,HSLLD
+13,1655866,3390,249,4641,48,give a few,3,give a few,v det:art qn,MAL,,Adult,3276.0,50.42814020821779,,female,declarative,,,,3,Eng-NA,3.0,eng,HSLLD
+14,1785221,3437,51,5217,48,,0,,,FEM,,Adult,,,,,declarative,,,,3,Eng-NA,,eng,HSLLD
+15,1785230,3484,52,5217,48,ah well you know when Chi did it because she'll look at you,13,ah well you know when Chi do it because she look at you,co n pro:per v conj n:prop mod pro:per conj pro:sub v prep pro:per,FE2,,Adult,,,,,declarative,,,,3,Eng-NA,15.0,eng,HSLLD
+16,1785230,3484,52,5217,48,ah well you know when Chi did it because she'll look at you,13,ah well you know when Chi do it because she look at you,co n pro:per v conj n:prop mod pro:per conj pro:sub v prep pro:per,FE2,,Adult,,,,,declarative,,,,3,Eng-NA,15.0,eng,HSLLD
+17,1785272,3437,53,5217,48,she looks real xxx,4,she look real,pro:sub v adj,FEM,,Adult,,,,,declarative,,,,3,Eng-NA,4.0,eng,HSLLD
+18,1785272,3437,53,5217,48,she looks real xxx,4,she look real,pro:sub v adj,FEM,,Adult,,,,,declarative,,,,3,Eng-NA,4.0,eng,HSLLD
+19,1785293,3484,54,5217,48,xxx like xxx daughter there,5,like daughter there,co n adv,FE2,,Adult,,,,,declarative,,,,3,Eng-NA,3.0,eng,HSLLD
+20,1785293,3484,54,5217,48,xxx like xxx daughter there,5,like daughter there,co n adv,FE2,,Adult,,,,,declarative,,,,3,Eng-NA,3.0,eng,HSLLD
+21,1785312,3437,55,5217,48,she looks guilty,3,she look guilt,pro:sub v adj,FEM,,Adult,,,,,declarative,,,,3,Eng-NA,6.0,eng,HSLLD
+22,1785312,3437,55,5217,48,she looks guilty,3,she look guilt,pro:sub v adj,FEM,,Adult,,,,,declarative,,,,3,Eng-NA,6.0,eng,HSLLD
+23,1785325,3484,56,5217,48,we're like Chi,3,we like Chi,pro:sub prep meta,FE2,,Adult,,,,,declarative,,,,3,Eng-NA,4.0,eng,HSLLD
+24,1785602,3484,68,5217,48,what,1,what,pro:int,FE2,,Adult,,,,,question,,,,3,Eng-NA,1.0,eng,HSLLD
+25,1785612,3437,69,5217,48,that's all that stuff going to the garbage man,9,that all that stuff go to the garbage man,pro:rel adv pro:dem n part prep det:art n n,FEM,,Adult,,,,,question,,,,3,Eng-NA,11.0,eng,HSLLD
+26,1785664,3437,71,5217,48,good stuff,2,good stuff,adj n,FEM,,Adult,,,,,declarative,,,,3,Eng-NA,2.0,eng,HSLLD
+27,1785674,3484,72,5217,48,yeah,1,yeah,co,FE2,,Adult,,,,,declarative,,,,3,Eng-NA,1.0,eng,HSLLD
+28,1785674,3484,72,5217,48,yeah,1,yeah,co,FE2,,Adult,,,,,declarative,,,,3,Eng-NA,1.0,eng,HSLLD
+29,1785689,3390,73,5217,48,xxx,1,,,MAL,,Adult,,,,,declarative,,,,3,Eng-NA,,eng,HSLLD
+30,1785834,3437,81,5217,48,messed up,2,mess up,part adv,FEM,,Adult,,,,,declarative,,,,3,Eng-NA,3.0,eng,HSLLD
+31,1785846,3390,82,5217,48,xxx,1,,,MAL,,Adult,,,,,declarative,,,,3,Eng-NA,,eng,HSLLD
+32,1785846,3390,82,5217,48,xxx,1,,,MAL,,Adult,,,,,declarative,,,,3,Eng-NA,,eng,HSLLD
+33,1785860,3437,83,5217,48,messed up,2,mess up,part adv,FEM,,Adult,,,,,declarative,,,,3,Eng-NA,3.0,eng,HSLLD
+34,1785926,3484,86,5217,48,well,1,well,co,FE2,,Adult,,,,,self interruption,,,,3,Eng-NA,1.0,eng,HSLLD
+35,1785932,3437,87,5217,48,okay Cou let's go boy,5,okay Cou let go boy,co n:prop v v n,FEM,,Adult,,,,,imperative_emphatic,,,,3,Eng-NA,6.0,eng,HSLLD
+36,1786099,3352,94,5217,48,actually I xxx,3,actual I,adv pro:sub,MA2,,Adult,,,,,declarative,,,,3,Eng-NA,4.0,eng,HSLLD
+37,1786116,3437,95,5217,48,Cou,1,Cou,n:prop,FEM,,Adult,,,,,declarative,,,,3,Eng-NA,1.0,eng,HSLLD
+38,1786116,3437,95,5217,48,Cou,1,Cou,n:prop,FEM,,Adult,,,,,declarative,,,,3,Eng-NA,1.0,eng,HSLLD
+39,1786132,3352,96,5217,48,oh well xxx,3,oh well,co co,MA2,,Adult,,,,,declarative,,,,3,Eng-NA,2.0,eng,HSLLD
+40,1786132,3352,96,5217,48,oh well xxx,3,oh well,co co,MA2,,Adult,,,,,declarative,,,,3,Eng-NA,2.0,eng,HSLLD
+41,1786149,3437,97,5217,48,Cou,1,Cou,n:prop,FEM,,Adult,,,,,declarative,,,,3,Eng-NA,1.0,eng,HSLLD
+42,1786149,3437,97,5217,48,Cou,1,Cou,n:prop,FEM,,Adult,,,,,declarative,,,,3,Eng-NA,1.0,eng,HSLLD
+43,1786159,3352,98,5217,48,xxx husband xxx,3,husband,n,MA2,,Adult,,,,,declarative,,,,3,Eng-NA,1.0,eng,HSLLD
+44,1786159,3352,98,5217,48,xxx husband xxx,3,husband,n,MA2,,Adult,,,,,declarative,,,,3,Eng-NA,1.0,eng,HSLLD
+45,1786181,3437,99,5217,48,xxx xxx husband,3,husband,n,FEM,,Adult,,,,,declarative,,,,3,Eng-NA,1.0,eng,HSLLD
+46,1786235,3390,102,5217,48,time I got the uh xxx,6,time I get the,n pro:sub v det:art,MAL,,Adult,,,,,declarative,,,,3,Eng-NA,5.0,eng,HSLLD
+47,1786263,3352,103,5217,48,do you have much insurance,5,do you have much insurance,mod pro:per v qn n,MA2,,Adult,,,,,question,,,,3,Eng-NA,5.0,eng,HSLLD
+48,1787845,3390,175,5217,48,xxx,1,,,MAL,,Adult,,,,,declarative,,,,3,Eng-NA,,eng,HSLLD
+49,1787858,3437,176,5217,48,ain't no what,3,be no what,aux co pro:int,FEM,,Adult,,,,,question,,,,3,Eng-NA,5.0,eng,HSLLD
+50,1788169,3390,196,5217,48,this is my week,4,this be my week,pro:dem cop det:poss n,MAL,,Adult,,,,,declarative,,,,3,Eng-NA,5.0,eng,HSLLD
+51,1788184,3437,197,5217,48,what,1,what,pro:int,FEM,,Adult,,,,,question,,,,3,Eng-NA,1.0,eng,HSLLD
+52,1788190,3437,198,5217,48,why,1,why,adv:int,FEM,,Adult,,,,,question,,,,3,Eng-NA,1.0,eng,HSLLD
+53,1788194,3390,199,5217,48,do you guys need any help getting xxx,8,do you guy need any help get,mod pro:per n v qn n part,MAL,,Adult,,,,,question,,,,3,Eng-NA,9.0,eng,HSLLD
+54,1788215,3390,200,5217,48,xxx,1,,,MAL,,Adult,,,,,declarative,,,,3,Eng-NA,,eng,HSLLD
+55,1788223,3437,201,5217,48,huh,1,huh,co,FEM,,Adult,,,,,question,,,,3,Eng-NA,1.0,eng,HSLLD
+56,1788223,3437,201,5217,48,huh,1,huh,co,FEM,,Adult,,,,,question,,,,3,Eng-NA,1.0,eng,HSLLD
+57,1788232,3390,202,5217,48,xxx all those old women trying to lose a little weight xxx,12,all those old woman try to lose a little weight,qn pro:dem adj n part inf v det:art adj n,MAL,,Adult,,,,,declarative,,,,3,Eng-NA,12.0,eng,HSLLD
+58,1788269,3437,203,5217,48,tell Richard Simmons,3,tell Richard Simmons,v n:prop n:prop,FEM,,Adult,,,,,question,,,,3,Eng-NA,3.0,eng,HSLLD
+59,1788286,3390,204,5217,48,Richard Simmons,2,Richard Simmons,n:prop n:prop,MAL,,Adult,,,,,question,,,,3,Eng-NA,2.0,eng,HSLLD
+60,1788295,3390,205,5217,48,y'all have Richard Simmons classics,5,you all have Richard Simmons classic,pro:per adv v n:prop n:prop n,MAL,,Adult,,,,,declarative,,,,3,Eng-NA,7.0,eng,HSLLD
+61,1788308,3437,206,5217,48,,0,,,FEM,,Adult,,,,,declarative,,,,3,Eng-NA,,eng,HSLLD
+62,1788319,3437,208,5217,48,,0,,,FEM,,Adult,,,,,declarative,,,,3,Eng-NA,,eng,HSLLD
+63,1788322,3390,209,5217,48,xxx one thing,3,one thing,det:num n,MAL,,Adult,,,,,declarative,,,,3,Eng-NA,2.0,eng,HSLLD
+64,1788332,3390,210,5217,48,xxx,1,,,MAL,,Adult,,,,,declarative,,,,3,Eng-NA,,eng,HSLLD
+65,1788340,3437,211,5217,48,fix what,2,fix what,v pro:int,FEM,,Adult,,,,,question,,,,3,Eng-NA,2.0,eng,HSLLD
+66,1788340,3437,211,5217,48,fix what,2,fix what,v pro:int,FEM,,Adult,,,,,question,,,,3,Eng-NA,2.0,eng,HSLLD
+67,1788352,3390,212,5217,48,xxx,1,,,MAL,,Adult,,,,,declarative,,,,3,Eng-NA,,eng,HSLLD
+68,1788352,3390,212,5217,48,xxx,1,,,MAL,,Adult,,,,,declarative,,,,3,Eng-NA,,eng,HSLLD
+69,1788363,3437,213,5217,48,if that dog lives for ten years is he gonna bark in that darn train every day though the years,20,if that dog live for ten year be he gonna bark in that darn train every day though the year,conj pro:dem n v prep det:num n cop pro:sub mod:aux v adv pro:dem n n qn n adv det:art n,FEM,,Adult,,,,,declarative,,,,3,Eng-NA,24.0,eng,HSLLD
+70,1788363,3437,213,5217,48,if that dog lives for ten years is he gonna bark in that darn train every day though the years,20,if that dog live for ten year be he gonna bark in that darn train every day though the year,conj pro:dem n v prep det:num n cop pro:sub mod:aux v adv pro:dem n n qn n adv det:art n,FEM,,Adult,,,,,declarative,,,,3,Eng-NA,24.0,eng,HSLLD
+71,1788413,3390,214,5217,48,Mark and them is looking for a fire dog,9,Mark and them be look for a fire dog,n:prop coord pro:obj aux part prep det:art n n,MAL,,Adult,,,,,declarative,,,,3,Eng-NA,11.0,eng,HSLLD
+72,1788413,3390,214,5217,48,Mark and them is looking for a fire dog,9,Mark and them be look for a fire dog,n:prop coord pro:obj aux part prep det:art n n,MAL,,Adult,,,,,declarative,,,,3,Eng-NA,11.0,eng,HSLLD
+73,1788433,3437,215,5217,48,,0,,,FEM,,Adult,,,,,declarative,,,,3,Eng-NA,,eng,HSLLD
+74,1788433,3437,215,5217,48,,0,,,FEM,,Adult,,,,,declarative,,,,3,Eng-NA,,eng,HSLLD
+75,1788437,3390,216,5217,48,asked xxx,2,ask,part,MAL,,Adult,,,,,declarative,,,,3,Eng-NA,2.0,eng,HSLLD
+76,1788447,3390,217,5217,48,xxx,1,,,MAL,,Adult,,,,,declarative,,,,3,Eng-NA,,eng,HSLLD
+77,1788453,3352,218,5217,48,,0,,,MA2,,Adult,,,,,declarative,,,,3,Eng-NA,,eng,HSLLD
+78,1788462,3352,219,5217,48,xxx come to pick you up xxx,7,come to pick you up,v prep v pro:per adv,MA2,,Adult,,,,,declarative,,,,3,Eng-NA,5.0,eng,HSLLD
+79,1788489,3437,220,5217,48,xxx,1,,,FEM,,Adult,,,,,declarative,,,,3,Eng-NA,,eng,HSLLD
+80,1789031,3390,246,5217,48,well I hope you don't expect me xxx,8,well I hope you do expect me,co pro:sub v pro:per mod v pro:obj,MAL,,Adult,,,,,declarative,,,,3,Eng-NA,8.0,eng,HSLLD
+81,1789057,3437,247,5217,48,work honey work,3,work honey work,n n n,FEM,,Adult,,,,,declarative,,,,3,Eng-NA,3.0,eng,HSLLD
+82,1789193,3488,65,5227,48,what is the America Cup,5,what be the America Cup,pro:int cop det:art n:prop n:prop,XXX,,Adult,3276.0,91.7246760713772,,female,declarative,,,,3,Eng-NA,6.0,eng,HSLLD
+83,1789208,3489,66,5227,48,no,1,no,co,ALX,,Adult,3276.0,91.7246760713772,,female,declarative,,,,3,Eng-NA,1.0,eng,HSLLD
+84,1789221,3489,68,5227,48,Bruce,1,Bruce,n:prop,ALX,,Adult,3276.0,91.7246760713772,,female,question,,,,3,Eng-NA,1.0,eng,HSLLD
+85,1789230,3488,69,5227,48,what is the America's cup,5,what be the America cup,pro:int cop det:art n:prop n,XXX,,Adult,3276.0,91.7246760713772,,female,question,,,,3,Eng-NA,7.0,eng,HSLLD
+86,1789259,3437,253,5217,48,look at this,3,look at this,v prep pro:dem,FEM,,Adult,,,,,declarative,,,,3,Eng-NA,3.0,eng,HSLLD
+87,1789272,3390,254,5217,48,I don't work hard at all,6,I do work hard at all,pro:sub mod v adv prep pro:indef,MAL,,Adult,,,,,declarative,,,,3,Eng-NA,7.0,eng,HSLLD
+88,1789534,3484,269,5217,48,whoo that don't you xxx,5,whoo that do you,co pro:rel mod pro:per,FE2,,Adult,,,,,declarative,,,,3,Eng-NA,5.0,eng,HSLLD
+89,1789549,3485,270,5217,48,,0,,,FE3,,Adult,,,,,declarative,,,,3,Eng-NA,,eng,HSLLD
+90,1790019,3437,289,5217,48,that's country,2,that country,pro:dem n,FEM,,Adult,,,,,declarative,,,,3,Eng-NA,3.0,eng,HSLLD
+91,1790029,3390,290,5217,48,yeah,1,yeah,co,MAL,,Adult,,,,,declarative,,,,3,Eng-NA,1.0,eng,HSLLD
+92,1790098,3437,294,5217,48,I put some on me,5,I put some on me,pro:sub v qn prep pro:obj,FEM,,Adult,,,,,declarative,,,,3,Eng-NA,6.0,eng,HSLLD
+93,1790112,3390,295,5217,48,xxx,1,,,MAL,,Adult,,,,,declarative,,,,3,Eng-NA,,eng,HSLLD
+94,1790112,3390,295,5217,48,xxx,1,,,MAL,,Adult,,,,,declarative,,,,3,Eng-NA,,eng,HSLLD
+95,1790121,3437,296,5217,48,oh but I don't know how I'm gonna squirt you have the baby,13,oh but I do know how I gonna squirt you have the baby,co conj pro:sub mod v adv:int pro:sub mod:aux v pro:per v det:art n,FEM,,Adult,,,,,self interruption,,,,3,Eng-NA,15.0,eng,HSLLD
+96,1790301,3437,303,5217,48,you were just asking me,5,you be just ask me,pro:per aux adv part pro:obj,FEM,,Adult,,,,,declarative,,,,3,Eng-NA,7.0,eng,HSLLD
+97,1790326,3390,304,5217,48,what,1,what,pro:int,MAL,,Adult,,,,,question,,,,3,Eng-NA,1.0,eng,HSLLD
+98,1792060,3437,373,5217,48,you could've xxx three years on xxx Park Avenue,9,you could three year on Park Avenue,pro:per mod det:num n prep n:prop n:prop,FEM,,Adult,,,,,declarative,,,,3,Eng-NA,9.0,eng,HSLLD
+99,1792090,3390,374,5217,48,now I'm gonna take care of you,7,now I gonna take care of you,adv pro:sub mod:aux v n prep pro:per,MAL,,Adult,,,,,declarative,,,,3,Eng-NA,8.0,eng,HSLLD
+100,1792090,3390,374,5217,48,now I'm gonna take care of you,7,now I gonna take care of you,adv pro:sub mod:aux v n prep pro:per,MAL,,Adult,,,,,declarative,,,,3,Eng-NA,8.0,eng,HSLLD
+101,1792118,3437,375,5217,48,,0,,,FEM,,Adult,,,,,declarative,,,,3,Eng-NA,,eng,HSLLD
+102,1793658,3390,572,5215,48,and a brew or not,5,and a brew or not,coord det:art n coord neg,MAL,,Adult,3276.0,92.199018460338,,female,declarative,,,,3,Eng-NA,5.0,eng,HSLLD
+103,1793692,3437,573,5215,48,how,1,how,adv:int,FEM,,Adult,3276.0,92.199018460338,,female,question,,,,3,Eng-NA,1.0,eng,HSLLD
+104,1793930,3437,585,5215,48,how's the spring water in there,6,how the spring water in there,adv:int det:art n n prep adv,FEM,,Adult,3276.0,92.199018460338,,female,question,,,,3,Eng-NA,7.0,eng,HSLLD
+105,1793945,3390,586,5215,48,hm,1,hm,co,MAL,,Adult,3276.0,92.199018460338,,female,declarative,,,,3,Eng-NA,1.0,eng,HSLLD
+106,1793965,3488,281,5227,48,French one oh one for two hundred please,8,French one oh one for two hundred please,n:prop pro:indef co pro:indef prep det:num det:num co,XXX,,Adult,3276.0,91.7246760713772,,female,declarative,,,,3,Eng-NA,8.0,eng,HSLLD
+107,1793987,3489,282,5227,48,you had to get here eventually,6,you have to get here eventual,pro:per v inf v adv adv,ALX,,Adult,3276.0,91.7246760713772,,female,declarative,,,,3,Eng-NA,9.0,eng,HSLLD
+108,2126968,3663,632,5657,49,good morning,2,good morning,adj n,AD1,Adult1,Adult,3658.0,19.0003901517485,Naima,female,declarative,1893.586,1892.95,s,3,Eng-NA,2.0,eng,Providence
+109,2126984,3664,633,5657,49,good morning,2,good morning,adj n,AD2,Adult2,Adult,3658.0,19.0003901517485,Naima,female,declarative,,,,3,Eng-NA,2.0,eng,Providence
+110,2127016,3663,635,5657,49,oh no,2,oh no,co co,AD1,Adult1,Adult,3658.0,19.0003901517485,Naima,female,declarative,,,,3,Eng-NA,2.0,eng,Providence
+111,2127034,3664,636,5657,49,no,1,no,co,AD2,Adult2,Adult,3658.0,19.0003901517485,Naima,female,declarative,,,,3,Eng-NA,1.0,eng,Providence
+112,2132995,3664,1606,5649,49,xxx,1,,,AD2,Adult2,Adult,3658.0,16.5260066941826,Naima,female,declarative,3747.215,3744.611,s,3,Eng-NA,,eng,Providence
+113,2133004,3665,1607,5649,49,hi,1,hi,co,AD3,Adult3,Adult,3658.0,16.5260066941826,Naima,female,declarative,,,,3,Eng-NA,1.0,eng,Providence
+114,2485903,3942,454,6285,54,very good,2,very good,adv adj,AUD,Audience1,Adult,,,,,declarative,1034.883,1032.863,s,3,Eng-NA,2.0,eng,MacWhinney
+115,2485914,3944,455,6285,54,what a nice play,4,what a nice play,pro:int det:art adj n,AU2,Audience2,Adult,,,,,declarative,1036.81,1034.883,s,3,Eng-NA,4.0,eng,MacWhinney
+116,2485914,3944,455,6285,54,what a nice play,4,what a nice play,pro:int det:art adj n,AU2,Audience2,Adult,,,,,declarative,1036.81,1034.883,s,3,Eng-NA,4.0,eng,MacWhinney
+117,2485927,3943,456,6285,54,wonderful,1,wonder,adj,AU3,Audience3,Adult,,,,,declarative,1037.995,1036.81,s,3,Eng-NA,2.0,eng,MacWhinney
+118,2547216,4130,644,6426,57,well,1,well,co,MAD,Male,Adult,4123.0,57.00117045524551,Remi,male,declarative,,,,3,Eng-NA,1.0,eng,Hall
+119,2547229,4136,645,6426,57,how are the roads today,5,how be the road today,adv:int aux det:art n adv:tem,FAD,Female,Adult,4123.0,57.00117045524551,Remi,male,question,,,,3,Eng-NA,7.0,eng,Hall
+120,2547393,4130,653,6426,57,the main roads are fine don't worry about them,9,the main road be fine do worry about them,det:art adj n cop adv mod v prep pro:obj,MAD,Male,Adult,4123.0,57.00117045524551,Remi,male,declarative,,,,3,Eng-NA,12.0,eng,Hall
+121,2547435,4136,654,6426,57,okay,1,okay,co,FAD,Female,Adult,4123.0,57.00117045524551,Remi,male,declarative,,,,3,Eng-NA,1.0,eng,Hall
+122,2552101,4055,861,6420,57,pero un diga,3,pero un diga,L2 L2 L2,FAD,Female,Adult,4043.0,57.00117045524551,Brett,male,question,,,,3,Eng-NA,3.0,eng,Hall
+123,2552123,4049,862,6420,57,adios,1,adios,L2,MAD,Male,Adult,4043.0,57.00117045524551,Brett,male,declarative,,,,3,Eng-NA,1.0,eng,Hall
+124,2552123,4049,862,6420,57,adios,1,adios,L2,MAD,Male,Adult,4043.0,57.00117045524551,Brett,male,declarative,,,,3,Eng-NA,1.0,eng,Hall
+125,2552133,4055,863,6420,57,bye bye,2,bye bye,co co,FAD,Female,Adult,4043.0,57.00117045524551,Brett,male,declarative,,,,3,Eng-NA,2.0,eng,Hall
+126,2552167,4055,865,6420,57,his mother's father,3,his mother father,det:poss n n,FAD,Female,Adult,4043.0,57.00117045524551,Brett,male,declarative,,,,3,Eng-NA,4.0,eng,Hall
+127,2552183,4049,866,6420,57,oh yeah,2,oh yeah,co co,MAD,Male,Adult,4043.0,57.00117045524551,Brett,male,declarative,,,,3,Eng-NA,2.0,eng,Hall
+128,2552183,4049,866,6420,57,oh yeah,2,oh yeah,co co,MAD,Male,Adult,4043.0,57.00117045524551,Brett,male,declarative,,,,3,Eng-NA,2.0,eng,Hall
+129,2552197,4055,867,6420,57,xxx talking,2,talk,part,FAD,Female,Adult,4043.0,57.00117045524551,Brett,male,question,,,,3,Eng-NA,2.0,eng,Hall
+130,2552197,4055,867,6420,57,xxx talking,2,talk,part,FAD,Female,Adult,4043.0,57.00117045524551,Brett,male,question,,,,3,Eng-NA,2.0,eng,Hall
+131,2552221,4049,868,6420,57,that's her father,3,that her father,pro:dem det:poss n,MAD,Male,Adult,4043.0,57.00117045524551,Brett,male,question,,,,3,Eng-NA,4.0,eng,Hall
+132,2552221,4049,868,6420,57,that's her father,3,that her father,pro:dem det:poss n,MAD,Male,Adult,4043.0,57.00117045524551,Brett,male,question,,,,3,Eng-NA,4.0,eng,Hall
+133,2552241,4055,869,6420,57,mhm he's nice,3,yes he nice,co pro:sub adj,FAD,Female,Adult,4043.0,57.00117045524551,Brett,male,declarative,,,,3,Eng-NA,4.0,eng,Hall
+134,2552609,4055,891,6420,57,young,1,young,adj,FAD,Female,Adult,4043.0,57.00117045524551,Brett,male,declarative,,,,3,Eng-NA,1.0,eng,Hall
+135,2552618,4049,892,6420,57,xxx I'll be runn this lady xxx she'd like to sit down,12,I be this lady she like to sit down,pro:sub cop pro:dem n pro:sub v inf v adv,MAD,Male,Adult,4043.0,57.00117045524551,Brett,male,declarative,,,,3,Eng-NA,11.0,eng,Hall
+136,2552618,4049,892,6420,57,xxx I'll be runn this lady xxx she'd like to sit down,12,I be this lady she like to sit down,pro:sub cop pro:dem n pro:sub v inf v adv,MAD,Male,Adult,4043.0,57.00117045524551,Brett,male,declarative,,,,3,Eng-NA,11.0,eng,Hall
+137,2552664,4055,893,6420,57,xxx,1,,,FAD,Female,Adult,4043.0,57.00117045524551,Brett,male,declarative,,,,3,Eng-NA,,eng,Hall
+138,2553941,4156,964,6428,57,awright,1,alright,co,MAD,Male,Adult,4151.0,57.00117045524551,Von,male,declarative,,,,3,Eng-NA,1.0,eng,Hall
+139,2553952,4162,965,6428,57,okay xxx,2,okay,co,FAD,Female,Adult,4151.0,57.00117045524551,Von,male,declarative,,,,3,Eng-NA,1.0,eng,Hall
+140,2554069,4156,971,6428,57,how are you,3,how be you,adv:int aux pro:per,MAD,Male,Adult,4151.0,57.00117045524551,Von,male,question,,,,3,Eng-NA,4.0,eng,Hall
+141,2554089,4162,972,6428,57,so I'm gonna go back,5,so I gonna go back,co pro:sub mod:aux v adv,FAD,Female,Adult,4151.0,57.00117045524551,Von,male,declarative,,,,3,Eng-NA,6.0,eng,Hall
+142,2557446,4067,1059,6421,57,how are ya,3,how be you,adv:int aux pro:per,FAD,Female,Adult,4056.0,57.00117045524551,Chris,male,question,,,,3,Eng-NA,4.0,eng,Hall
+143,2557466,4062,1060,6421,57,hello there Christopher,3,hello there Christopher,co adv n:prop,MAD,Male,Adult,4056.0,57.00117045524551,Chris,male,question,,,,3,Eng-NA,3.0,eng,Hall
+144,2561682,4062,1265,6421,57,is Eddy in yet,4,be Eddy in yet,cop n:prop prep adv,MAD,Male,Adult,4056.0,57.00117045524551,Chris,male,question,,,,3,Eng-NA,5.0,eng,Hall
+145,2561709,4067,1266,6421,57,yeah I am,3,yeah I be,co pro:sub aux,FAD,Female,Adult,4056.0,57.00117045524551,Chris,male,declarative,,,,3,Eng-NA,4.0,eng,Hall
+146,2561782,4062,1270,6421,57,he's in today,3,he in today,pro:sub prep adv:tem,MAD,Male,Adult,4056.0,57.00117045524551,Chris,male,declarative,,,,3,Eng-NA,4.0,eng,Hall
+147,2561797,4067,1271,6421,57,but I have a few minutes,6,but I have a few minute,conj pro:sub v det:art qn n,FAD,Female,Adult,4056.0,57.00117045524551,Chris,male,imperative_emphatic,,,,3,Eng-NA,7.0,eng,Hall
+148,2567938,4334,484,6442,57,yeah,1,yeah,co,MAD,Male,Adult,4329.0,57.00117045524551,Julia,female,declarative,,,,3,Eng-NA,1.0,eng,Hall
+149,2567946,4339,485,6442,57,take care,2,take care,v n,FAD,Female,Adult,4329.0,57.00117045524551,Julia,female,declarative,,,,3,Eng-NA,2.0,eng,Hall
+150,2591602,4107,2288,6424,57,you're gonna be facing Jason and it'll be nicer you'll see his nice handsome face,15,you gonna be face Jason and it be nice you see his nice handsome face,pro:per mod:aux aux part n:prop coord pro:per aux adj pro:per co det:poss adj adj n,TCA,Teacher's_Aide,Adult,4091.0,57.00117045524551,Kip,male,declarative,,,,3,Eng-NA,20.0,eng,Hall
+151,2591657,4100,2289,6424,57,no I said I xxx,5,no I say I,co pro:sub v pro:sub,MAD,Male,Adult,4091.0,57.00117045524551,Kip,male,declarative,,,,3,Eng-NA,5.0,eng,Hall
+152,2661098,4377,204,6447,57,so happy birthday Tony today's your birthday right,8,so happy Tony today your right,adv adj n:prop adv:tem det:poss adj,FAD,Female,Adult,4025.0,57.00117045524551,Tony,male,question,,,,3,Eng-NA,7.0,eng,Hall
+153,2661125,4374,205,6447,57,howdy,1,howdy,co,MAD,Male,Adult,4025.0,57.00117045524551,Tony,male,declarative,,,,3,Eng-NA,1.0,eng,Hall
+154,2668678,4377,621,6447,57,is the xxx come here xxx,6,be the come here,cop det:art v adv,FAD,Female,Adult,4025.0,57.00117045524551,Tony,male,declarative,,,,3,Eng-NA,5.0,eng,Hall
+155,2668696,4374,622,6447,57,come on xxx get on there Tony,7,come on get on there Tony,v adv v prep adv n:prop,MAD,Male,Adult,4025.0,57.00117045524551,Tony,male,declarative,,,,3,Eng-NA,6.0,eng,Hall
+156,2674971,4374,1013,6447,57,Joey,1,Joey,n:prop,MAD,Male,Adult,4025.0,57.00117045524551,Tony,male,declarative,,,,3,Eng-NA,1.0,eng,Hall
+157,2674983,4377,1014,6447,57,xxx,1,,,FAD,Female,Adult,4025.0,57.00117045524551,Tony,male,declarative,,,,3,Eng-NA,,eng,Hall
+158,2677061,4405,816,6450,57,mike,1,mike,n,FAD,Female,Adult,4396.0,57.00117045524551,David,male,question,,,,3,Eng-NA,1.0,eng,Hall
+159,2677068,4400,817,6450,57,fifty five,2,fifty five,det:num det:num,MAD,Male,Adult,4396.0,57.00117045524551,David,male,declarative,,,,3,Eng-NA,2.0,eng,Hall
+160,2677068,4400,817,6450,57,fifty five,2,fifty five,det:num det:num,MAD,Male,Adult,4396.0,57.00117045524551,David,male,declarative,,,,3,Eng-NA,2.0,eng,Hall
+161,2677078,4405,818,6450,57,how much,2,how much,adv:int qn,FAD,Female,Adult,4396.0,57.00117045524551,David,male,question,,,,3,Eng-NA,2.0,eng,Hall
+162,2681531,4411,473,6451,57,that's okay you can run over me anytime,8,that okay you can run over me anytime,pro:dem adj pro:per mod v prep pro:obj adv:tem,MAD,Male,Adult,4406.0,57.00117045524551,Karen,female,declarative,,,,3,Eng-NA,9.0,eng,Hall
+163,2681553,4417,474,6451,57,haha,1,haha,co,FAD,Female,Adult,4406.0,57.00117045524551,Karen,female,declarative,,,,3,Eng-NA,1.0,eng,Hall
+164,2681997,4446,27,6454,57,do you want your breakfast now or later,8,do you want your breakfast now or later,mod pro:per v det:poss n adv coord adv,FAD,Female,Adult,4434.0,54.0011088523378,Samantha,female,question,,,,3,Eng-NA,8.0,eng,Hall
+165,2682020,4440,28,6454,57,I'm not hungry,3,I not hungry,pro:sub neg adj,MAD,Male,Adult,4434.0,54.0011088523378,Samantha,female,question,,,,3,Eng-NA,4.0,eng,Hall
+166,2682020,4440,28,6454,57,I'm not hungry,3,I not hungry,pro:sub neg adj,MAD,Male,Adult,4434.0,54.0011088523378,Samantha,female,question,,,,3,Eng-NA,4.0,eng,Hall
+167,2682036,4446,29,6454,57,you're not hungry,3,you not hungry,pro:per neg adj,FAD,Female,Adult,4434.0,54.0011088523378,Samantha,female,declarative,,,,3,Eng-NA,4.0,eng,Hall
+168,2682108,4446,34,6454,57,junior,1,junior,adj,FAD,Female,Adult,4434.0,54.0011088523378,Samantha,female,declarative,,,,3,Eng-NA,1.0,eng,Hall
+169,2682119,4440,35,6454,57,what,1,what,pro:int,MAD,Male,Adult,4434.0,54.0011088523378,Samantha,female,question,,,,3,Eng-NA,1.0,eng,Hall
+170,2682119,4440,35,6454,57,what,1,what,pro:int,MAD,Male,Adult,4434.0,54.0011088523378,Samantha,female,question,,,,3,Eng-NA,1.0,eng,Hall
+171,2682125,4446,36,6454,57,daddy might come home today,5,daddy might come home today,n mod v adv adv:tem,FAD,Female,Adult,4434.0,54.0011088523378,Samantha,female,declarative,,,,3,Eng-NA,5.0,eng,Hall
+172,2682162,4446,38,6454,57,uhhuh,1,uhhuh,co,FAD,Female,Adult,4434.0,54.0011088523378,Samantha,female,declarative,,,,3,Eng-NA,1.0,eng,Hall
+173,2682169,4440,39,6454,57,who said,2,who say,pro:rel v,MAD,Male,Adult,4434.0,54.0011088523378,Samantha,female,question,,,,3,Eng-NA,3.0,eng,Hall
+174,2682181,4440,40,6454,57,the doctor,2,the doctor,det:art n,MAD,Male,Adult,4434.0,54.0011088523378,Samantha,female,question,,,,3,Eng-NA,2.0,eng,Hall
+175,2682187,4446,41,6454,57,yeah,1,yeah,co,FAD,Female,Adult,4434.0,54.0011088523378,Samantha,female,declarative,,,,3,Eng-NA,1.0,eng,Hall
+176,2682216,4440,43,6454,57,when did he what did did he call,8,when do what do do he call,conj v pro:int mod mod pro:sub v,MAD,Male,Adult,4434.0,54.0011088523378,Samantha,female,question,,,,3,Eng-NA,10.0,eng,Hall
+177,2682243,4446,44,6454,57,just before,2,just before,adj adv,FAD,Female,Adult,4434.0,54.0011088523378,Samantha,female,declarative,,,,3,Eng-NA,2.0,eng,Hall
+178,2682259,4446,45,6454,57,what were you sleeping,4,what be you sleep,pro:int cop pro:per part,FAD,Female,Adult,4434.0,54.0011088523378,Samantha,female,question,,,,3,Eng-NA,6.0,eng,Hall
+179,2682286,4440,46,6454,57,oh was that him,4,oh be that him,co cop pro:dem pro:obj,MAD,Male,Adult,4434.0,54.0011088523378,Samantha,female,question,,,,3,Eng-NA,6.0,eng,Hall
+180,2682286,4440,46,6454,57,oh was that him,4,oh be that him,co cop pro:dem pro:obj,MAD,Male,Adult,4434.0,54.0011088523378,Samantha,female,question,,,,3,Eng-NA,6.0,eng,Hall
+181,2682299,4446,47,6454,57,uhhuh,1,uhhuh,co,FAD,Female,Adult,4434.0,54.0011088523378,Samantha,female,declarative,,,,3,Eng-NA,1.0,eng,Hall
+182,2683849,4405,1237,6450,57,four o four,3,four o four,det:num n:let det:num,FAD,Female,Adult,4396.0,57.00117045524551,David,male,declarative,,,,3,Eng-NA,3.0,eng,Hall
+183,2683858,4400,1238,6450,57,what's yours,2,what yours,pro:int pro:poss,MAD,Male,Adult,4396.0,57.00117045524551,David,male,question,,,,3,Eng-NA,3.0,eng,Hall
+184,2688128,4446,340,6454,57,goodbye sweet,2,goodbye sweet,co co,FAD,Female,Adult,4434.0,54.0011088523378,Samantha,female,declarative,,,,3,Eng-NA,2.0,eng,Hall
+185,2688141,4440,341,6454,57,hey mom,2,hey mom,co n,MAD,Male,Adult,4434.0,54.0011088523378,Samantha,female,declarative,,,,3,Eng-NA,2.0,eng,Hall
+186,2688141,4440,341,6454,57,hey mom,2,hey mom,co n,MAD,Male,Adult,4434.0,54.0011088523378,Samantha,female,declarative,,,,3,Eng-NA,2.0,eng,Hall
+187,2688153,4446,342,6454,57,yeah,1,yeah,co,FAD,Female,Adult,4434.0,54.0011088523378,Samantha,female,imperative_emphatic,,,,3,Eng-NA,1.0,eng,Hall
+188,2688153,4446,342,6454,57,yeah,1,yeah,co,FAD,Female,Adult,4434.0,54.0011088523378,Samantha,female,imperative_emphatic,,,,3,Eng-NA,1.0,eng,Hall
+189,2688160,4440,343,6454,57,you coming direct back,4,you come direct back,pro:per part adj n,MAD,Male,Adult,4434.0,54.0011088523378,Samantha,female,question,,,,3,Eng-NA,5.0,eng,Hall
+190,2688160,4440,343,6454,57,you coming direct back,4,you come direct back,pro:per part adj n,MAD,Male,Adult,4434.0,54.0011088523378,Samantha,female,question,,,,3,Eng-NA,5.0,eng,Hall
+191,2688170,4446,344,6454,57,yeah I'm just gonna go by duh post office,9,yeah I just gonna go by the post office,co pro:sub adv mod:aux v prep det:art n n,FAD,Female,Adult,4434.0,54.0011088523378,Samantha,female,declarative,,,,3,Eng-NA,10.0,eng,Hall
+192,2688170,4446,344,6454,57,yeah I'm just gonna go by duh post office,9,yeah I just gonna go by the post office,co pro:sub adv mod:aux v prep det:art n n,FAD,Female,Adult,4434.0,54.0011088523378,Samantha,female,declarative,,,,3,Eng-NA,10.0,eng,Hall
+193,2688196,4440,345,6454,57,get me a yogurt,4,get me a yogurt,v pro:obj det:art n,MAD,Male,Adult,4434.0,54.0011088523378,Samantha,female,question,,,,3,Eng-NA,4.0,eng,Hall
+194,2688196,4440,345,6454,57,get me a yogurt,4,get me a yogurt,v pro:obj det:art n,MAD,Male,Adult,4434.0,54.0011088523378,Samantha,female,question,,,,3,Eng-NA,4.0,eng,Hall
+195,2688216,4446,346,6454,57,what,1,what,pro:int,FAD,Female,Adult,4434.0,54.0011088523378,Samantha,female,question,,,,3,Eng-NA,1.0,eng,Hall
+196,2688216,4446,346,6454,57,what,1,what,pro:int,FAD,Female,Adult,4434.0,54.0011088523378,Samantha,female,question,,,,3,Eng-NA,1.0,eng,Hall
+197,2688224,4440,347,6454,57,get me a yogurt,4,get me a yogurt,v pro:obj det:art n,MAD,Male,Adult,4434.0,54.0011088523378,Samantha,female,question,,,,3,Eng-NA,4.0,eng,Hall
+198,2688224,4440,347,6454,57,get me a yogurt,4,get me a yogurt,v pro:obj det:art n,MAD,Male,Adult,4434.0,54.0011088523378,Samantha,female,question,,,,3,Eng-NA,4.0,eng,Hall
+199,2688242,4446,348,6454,57,oh okay I gotta buy some anyway oh,8,oh okay I gotta buy some anyway oh,co adj pro:sub mod:aux v qn adv co,FAD,Female,Adult,4434.0,54.0011088523378,Samantha,female,declarative,,,,3,Eng-NA,8.0,eng,Hall
+200,2691795,4446,543,6454,57,I'll see you I'll be back in about fifteen minutes,10,I see you I be back in about fifteen minute,pro:sub v pro:per pro:sub cop adj adv prep det:num n,FAD,Female,Adult,4434.0,54.0011088523378,Samantha,female,declarative,,,,3,Eng-NA,13.0,eng,Hall
+201,2691824,4447,544,6454,57,um ah ah,3,ah ah,co co,TCA,Teacher's_Aide,Adult,4434.0,54.0011088523378,Samantha,female,declarative,,,,3,Eng-NA,2.0,eng,Hall
+202,2745541,4377,4732,6447,57,hi xxx,2,hi,co,FAD,Female,Adult,4025.0,57.00117045524551,Tony,male,declarative,,,,3,Eng-NA,1.0,eng,Hall
+203,2745553,4374,4733,6447,57,yeah,1,yeah,co,MAD,Male,Adult,4025.0,57.00117045524551,Tony,male,declarative,,,,3,Eng-NA,1.0,eng,Hall
+204,2745620,4374,4736,6447,57,xxx,1,,,MAD,Male,Adult,4025.0,57.00117045524551,Tony,male,declarative,,,,3,Eng-NA,,eng,Hall
+205,2745634,4377,4737,6447,57,how you doing,3,how you do,adv:int pro:per part,FAD,Female,Adult,4025.0,57.00117045524551,Tony,male,question,,,,3,Eng-NA,4.0,eng,Hall
+206,2771858,4394,5879,6449,57,xxx,1,,,MAD,Male,Adult,4032.0,57.00117045524551,Bobby,male,declarative,,,,3,Eng-NA,,eng,Hall
+207,2771869,4395,5880,6449,57,are you playing with matches again,6,be you play with match again,cop pro:per part prep n adv,FAD,Female,Adult,4032.0,57.00117045524551,Bobby,male,question,,,,3,Eng-NA,9.0,eng,Hall
+208,2772823,4395,5941,6449,57,xxx,1,,,FAD,Female,Adult,4032.0,57.00117045524551,Bobby,male,declarative,,,,3,Eng-NA,,eng,Hall
+209,2772833,4394,5942,6449,57,xxx,1,,,MAD,Male,Adult,4032.0,57.00117045524551,Bobby,male,declarative,,,,3,Eng-NA,,eng,Hall
+210,2773588,4468,4235,6456,57,we'll xxx,2,we,pro:sub,FAD,Female,Adult,4458.0,57.00117045524551,Summer,female,declarative,,,,3,Eng-NA,2.0,eng,Hall
+211,2773596,4462,4236,6456,57,xxx,1,,,MAD,Male,Adult,4458.0,57.00117045524551,Summer,female,declarative,,,,3,Eng-NA,,eng,Hall
+212,2773596,4462,4236,6456,57,xxx,1,,,MAD,Male,Adult,4458.0,57.00117045524551,Summer,female,declarative,,,,3,Eng-NA,,eng,Hall
+213,2773603,4468,4237,6456,57,what,1,what,pro:int,FAD,Female,Adult,4458.0,57.00117045524551,Summer,female,question,,,,3,Eng-NA,1.0,eng,Hall
+214,2773610,4462,4238,6456,57,xxx,1,,,MAD,Male,Adult,4458.0,57.00117045524551,Summer,female,declarative,,,,3,Eng-NA,,eng,Hall
+215,2773613,4468,4239,6456,57,yeah xxx,2,yeah,co,FAD,Female,Adult,4458.0,57.00117045524551,Summer,female,declarative,,,,3,Eng-NA,1.0,eng,Hall
+216,2773916,4462,4257,6456,57,so let's have it in your house,7,so let have it in your house,adv v v pro:per prep det:poss n,MAD,Male,Adult,4458.0,57.00117045524551,Summer,female,declarative,,,,3,Eng-NA,8.0,eng,Hall
+217,2773929,4468,4258,6456,57,we can't because he has_to go to bed at nine thirty,11,we can because he has_to go to bed at nine thirty,pro:sub mod conj pro:sub mod:aux v prep n prep det:num det:num,FAD,Female,Adult,4458.0,57.00117045524551,Summer,female,declarative,,,,3,Eng-NA,12.0,eng,Hall
+218,2774031,4462,4265,6456,57,hold it,2,hold it,v pro:per,MAD,Male,Adult,4458.0,57.00117045524551,Summer,female,declarative,,,,3,Eng-NA,2.0,eng,Hall
+219,2774038,4468,4266,6456,57,and everything we got the money,6,and everything we get the money,coord pro:indef pro:sub v det:art n,FAD,Female,Adult,4458.0,57.00117045524551,Summer,female,trail off,,,,3,Eng-NA,7.0,eng,Hall
+220,2774038,4468,4266,6456,57,and everything we got the money,6,and everything we get the money,coord pro:indef pro:sub v det:art n,FAD,Female,Adult,4458.0,57.00117045524551,Summer,female,trail off,,,,3,Eng-NA,7.0,eng,Hall
+221,2774051,4462,4267,6456,57,let me talk to him,5,let me talk to him,v pro:obj v prep pro:obj,MAD,Male,Adult,4458.0,57.00117045524551,Summer,female,declarative,,,,3,Eng-NA,6.0,eng,Hall
+222,2774134,4468,4273,6456,57,yeah xxx,2,yeah,co,FAD,Female,Adult,4458.0,57.00117045524551,Summer,female,declarative,,,,3,Eng-NA,1.0,eng,Hall
+223,2774141,4462,4274,6456,57,your father's cooking good,4,your father cook good,det:poss n part adj,MAD,Male,Adult,4458.0,57.00117045524551,Summer,female,declarative,,,,3,Eng-NA,6.0,eng,Hall
+224,2774153,4462,4275,6456,57,why you got_to go to bed at nine thirty for,10,why you got_to go to bed at nine thirty for,adv:int pro:per mod:aux v prep n prep det:num det:num prep,MAD,Male,Adult,4458.0,57.00117045524551,Summer,female,question,,,,3,Eng-NA,10.0,eng,Hall
+225,2774184,4468,4276,6456,57,not me he does,4,not me he do,neg pro:obj pro:sub v,FAD,Female,Adult,4458.0,57.00117045524551,Summer,female,declarative,,,,3,Eng-NA,5.0,eng,Hall
+226,2774184,4468,4276,6456,57,not me he does,4,not me he do,neg pro:obj pro:sub v,FAD,Female,Adult,4458.0,57.00117045524551,Summer,female,declarative,,,,3,Eng-NA,5.0,eng,Hall
+227,2774199,4462,4277,6456,57,why,1,why,adv:int,MAD,Male,Adult,4458.0,57.00117045524551,Summer,female,question,,,,3,Eng-NA,1.0,eng,Hall
+228,2774245,4468,4281,6456,57,xxx,1,,,FAD,Female,Adult,4458.0,57.00117045524551,Summer,female,declarative,,,,3,Eng-NA,,eng,Hall
+229,2774250,4462,4282,6456,57,why xxx,2,why,adv:int,MAD,Male,Adult,4458.0,57.00117045524551,Summer,female,declarative,,,,3,Eng-NA,1.0,eng,Hall
+230,2774250,4462,4282,6456,57,why xxx,2,why,adv:int,MAD,Male,Adult,4458.0,57.00117045524551,Summer,female,declarative,,,,3,Eng-NA,1.0,eng,Hall
+231,2774262,4468,4283,6456,57,xxx and he's gonna be being taped right,8,and he gonna be be tape right,coord pro:sub mod:aux cop aux part n,FAD,Female,Adult,4458.0,57.00117045524551,Summer,female,question,,,,3,Eng-NA,10.0,eng,Hall
+232,2774386,4468,4287,6456,57,xxx,1,,,FAD,Female,Adult,4458.0,57.00117045524551,Summer,female,declarative,,,,3,Eng-NA,,eng,Hall
+233,2774389,4462,4288,6456,57,for what xxx taping,4,for what tape,prep pro:int n:gerund,MAD,Male,Adult,4458.0,57.00117045524551,Summer,female,declarative,,,,3,Eng-NA,4.0,eng,Hall
+234,2774405,4462,4289,6456,57,his heart,2,his heart,det:poss n,MAD,Male,Adult,4458.0,57.00117045524551,Summer,female,question,,,,3,Eng-NA,2.0,eng,Hall
+235,2774412,4468,4290,6456,57,xxx,1,,,FAD,Female,Adult,4458.0,57.00117045524551,Summer,female,declarative,,,,3,Eng-NA,,eng,Hall
+236,2774412,4468,4290,6456,57,xxx,1,,,FAD,Female,Adult,4458.0,57.00117045524551,Summer,female,declarative,,,,3,Eng-NA,,eng,Hall
+237,2774419,4462,4291,6456,57,for what,2,for what,conj pro:int,MAD,Male,Adult,4458.0,57.00117045524551,Summer,female,question,,,,3,Eng-NA,2.0,eng,Hall
+238,2774419,4462,4291,6456,57,for what,2,for what,conj pro:int,MAD,Male,Adult,4458.0,57.00117045524551,Summer,female,question,,,,3,Eng-NA,2.0,eng,Hall
+239,2774431,4468,4292,6456,57,sound,1,sound,n,FAD,Female,Adult,4458.0,57.00117045524551,Summer,female,question,,,,3,Eng-NA,1.0,eng,Hall
+240,2774431,4468,4292,6456,57,sound,1,sound,n,FAD,Female,Adult,4458.0,57.00117045524551,Summer,female,question,,,,3,Eng-NA,1.0,eng,Hall
+241,2774441,4462,4293,6456,57,for the doctor,3,for the doctor,conj det:art n,MAD,Male,Adult,4458.0,57.00117045524551,Summer,female,question,,,,3,Eng-NA,3.0,eng,Hall
+242,2774441,4462,4293,6456,57,for the doctor,3,for the doctor,conj det:art n,MAD,Male,Adult,4458.0,57.00117045524551,Summer,female,question,,,,3,Eng-NA,3.0,eng,Hall
+243,2774456,4468,4294,6456,57,he's being taped right now,5,he be tape right now,pro:sub part part adv adv,FAD,Female,Adult,4458.0,57.00117045524551,Summer,female,declarative,,,,3,Eng-NA,8.0,eng,Hall
+244,2774456,4468,4294,6456,57,he's being taped right now,5,he be tape right now,pro:sub part part adv adv,FAD,Female,Adult,4458.0,57.00117045524551,Summer,female,declarative,,,,3,Eng-NA,8.0,eng,Hall
+245,2774469,4462,4295,6456,57,with what,2,with what,prep pro:int,MAD,Male,Adult,4458.0,57.00117045524551,Summer,female,question,,,,3,Eng-NA,2.0,eng,Hall
+246,2774469,4462,4295,6456,57,with what,2,with what,prep pro:int,MAD,Male,Adult,4458.0,57.00117045524551,Summer,female,question,,,,3,Eng-NA,2.0,eng,Hall
+247,2774475,4468,4296,6456,57,xxx,1,,,FAD,Female,Adult,4458.0,57.00117045524551,Summer,female,declarative,,,,3,Eng-NA,,eng,Hall
+248,2774475,4468,4296,6456,57,xxx,1,,,FAD,Female,Adult,4458.0,57.00117045524551,Summer,female,declarative,,,,3,Eng-NA,,eng,Hall
+249,2774481,4462,4297,6456,57,come over here Summer,4,come over here Summer,v adv adv n:prop,MAD,Male,Adult,4458.0,57.00117045524551,Summer,female,declarative,,,,3,Eng-NA,4.0,eng,Hall
+250,2774501,4462,4299,6456,57,right,1,right,co,MAD,Male,Adult,4458.0,57.00117045524551,Summer,female,question,,,,3,Eng-NA,1.0,eng,Hall
+251,2774507,4468,4300,6456,57,no,1,no,co,FAD,Female,Adult,4458.0,57.00117045524551,Summer,female,imperative_emphatic,,,,3,Eng-NA,1.0,eng,Hall
+252,2774507,4468,4300,6456,57,no,1,no,co,FAD,Female,Adult,4458.0,57.00117045524551,Summer,female,imperative_emphatic,,,,3,Eng-NA,1.0,eng,Hall
+253,2774514,4462,4301,6456,57,why is he being taped,5,why be he be tape,adv:int cop pro:sub aux part,MAD,Male,Adult,4458.0,57.00117045524551,Summer,female,question,,,,3,Eng-NA,8.0,eng,Hall
+254,2774514,4462,4301,6456,57,why is he being taped,5,why be he be tape,adv:int cop pro:sub aux part,MAD,Male,Adult,4458.0,57.00117045524551,Summer,female,question,,,,3,Eng-NA,8.0,eng,Hall
+255,2774528,4468,4302,6456,57,what is it for again,5,what be it for again,pro:int aux pro:per prep adv,FAD,Female,Adult,4458.0,57.00117045524551,Summer,female,question,,,,3,Eng-NA,6.0,eng,Hall
+256,2774667,4462,4314,6456,57,for two days,3,for two day,prep det:num n,MAD,Male,Adult,4458.0,57.00117045524551,Summer,female,question,,,,3,Eng-NA,4.0,eng,Hall
+257,2774677,4468,4315,6456,57,xxx,1,,,FAD,Female,Adult,4458.0,57.00117045524551,Summer,female,declarative,,,,3,Eng-NA,,eng,Hall
+258,2774677,4468,4315,6456,57,xxx,1,,,FAD,Female,Adult,4458.0,57.00117045524551,Summer,female,declarative,,,,3,Eng-NA,,eng,Hall
+259,2774682,4462,4316,6456,57,and only you want the sound from him,8,and only you want the sound from him,coord qn pro:per v det:art n prep pro:obj,MAD,Male,Adult,4458.0,57.00117045524551,Summer,female,question,,,,3,Eng-NA,8.0,eng,Hall
+260,2774766,4468,4320,6456,57,xxx,1,,,FAD,Female,Adult,4458.0,57.00117045524551,Summer,female,declarative,,,,3,Eng-NA,,eng,Hall
+261,2774772,4462,4321,6456,57,Summer aren't you a man,5,Summer be you a man,n:prop aux pro:per det:art n,MAD,Male,Adult,4458.0,57.00117045524551,Summer,female,question,,,,3,Eng-NA,7.0,eng,Hall
+262,2775147,4462,4346,6456,57,xxx,1,,,MAD,Male,Adult,4458.0,57.00117045524551,Summer,female,declarative,,,,3,Eng-NA,,eng,Hall
+263,2775155,4468,4347,6456,57,ah there's only going to be him you Papo Diz and Andrew,12,ah there only go to be him you Papo Diz and Andrew,co pro:exist adv part inf cop pro:obj pro:per n:prop n:prop coord n:prop,FAD,Female,Adult,4458.0,57.00117045524551,Summer,female,declarative,,,,3,Eng-NA,14.0,eng,Hall
+264,2775246,4468,4352,6456,57,xxx,1,,,FAD,Female,Adult,4458.0,57.00117045524551,Summer,female,declarative,,,,3,Eng-NA,,eng,Hall
+265,2775253,4462,4353,6456,57,I'll be xxx oh so she'll stay wid him till what,11,I be oh so she stay with him till what,pro:sub cop co co pro:sub cop prep pro:obj v pro:int,MAD,Male,Adult,4458.0,57.00117045524551,Summer,female,question,,,,3,Eng-NA,12.0,eng,Hall
+266,2775338,4468,4357,6456,57,well it's gonna be in Wanda's house xxx nobody's coming in,11,well it gonna be in Wanda house nobody come in,co pro:per mod:aux cop prep n:prop n pro:indef part adv,FAD,Female,Adult,4458.0,57.00117045524551,Summer,female,declarative,,,,3,Eng-NA,14.0,eng,Hall
+267,2775365,4462,4358,6456,57,Daniel said he was gonna go right now,8,Daniel say he be gonna go right now,n:prop v pro:sub aux mod:aux v adv adv,MAD,Male,Adult,4458.0,57.00117045524551,Summer,female,declarative,,,,3,Eng-NA,11.0,eng,Hall
+268,2775409,4462,4360,6456,57,he said yeah I'll come and he went like that didn't you hear him,14,he say yeah I come and he go like that do you hear him,pro:sub v co pro:sub v coord pro:sub v prep pro:dem mod pro:per v pro:obj,MAD,Male,Adult,4458.0,57.00117045524551,Summer,female,question,,,,3,Eng-NA,19.0,eng,Hall
+269,2775437,4468,4361,6456,57,nope,1,nope,co,FAD,Female,Adult,4458.0,57.00117045524551,Summer,female,declarative,,,,3,Eng-NA,1.0,eng,Hall
+270,2775437,4468,4361,6456,57,nope,1,nope,co,FAD,Female,Adult,4458.0,57.00117045524551,Summer,female,declarative,,,,3,Eng-NA,1.0,eng,Hall
+271,2775443,4462,4362,6456,57,I'll bet you if I ask him again he'll say it real loud xxx,14,I bet you if I ask him again he say it real loud,pro:sub v pro:per conj pro:sub v pro:obj adv pro:sub v pro:per adj adj,MAD,Male,Adult,4458.0,57.00117045524551,Summer,female,declarative,,,,3,Eng-NA,16.0,eng,Hall
+272,2775443,4462,4362,6456,57,I'll bet you if I ask him again he'll say it real loud xxx,14,I bet you if I ask him again he say it real loud,pro:sub v pro:per conj pro:sub v pro:obj adv pro:sub v pro:per adj adj,MAD,Male,Adult,4458.0,57.00117045524551,Summer,female,declarative,,,,3,Eng-NA,16.0,eng,Hall
+273,2775480,4468,4363,6456,57,try to make the guys come,6,try to make the guy come,v inf v det:art n v,FAD,Female,Adult,4458.0,57.00117045524551,Summer,female,declarative,,,,3,Eng-NA,7.0,eng,Hall
+274,2775480,4468,4363,6456,57,try to make the guys come,6,try to make the guy come,v inf v det:art n v,FAD,Female,Adult,4458.0,57.00117045524551,Summer,female,declarative,,,,3,Eng-NA,7.0,eng,Hall
+275,2775502,4462,4364,6456,57,look it,2,look it,v pro:per,MAD,Male,Adult,4458.0,57.00117045524551,Summer,female,declarative,,,,3,Eng-NA,2.0,eng,Hall
+276,2775563,4462,4367,6456,57,come over here Wanda hey Wanda come over,8,come over here Wanda hey Wanda come over,v adv adv n:prop co n:prop v adv,MAD,Male,Adult,4458.0,57.00117045524551,Summer,female,declarative,,,,3,Eng-NA,8.0,eng,Hall
+277,2775581,4468,4368,6456,57,Wanda come here,3,Wanda come here,n:prop v adv,FAD,Female,Adult,4458.0,57.00117045524551,Summer,female,declarative,,,,3,Eng-NA,3.0,eng,Hall
+278,2775663,4468,4373,6456,57,what,1,what,pro:int,FAD,Female,Adult,4458.0,57.00117045524551,Summer,female,question,,,,3,Eng-NA,1.0,eng,Hall
+279,2775668,4462,4374,6456,57,Daniel keeps on calling her a boozer,7,Daniel keep on call her a boozer,n:prop v adv part pro:obj det:art n,MAD,Male,Adult,4458.0,57.00117045524551,Summer,female,declarative,,,,3,Eng-NA,9.0,eng,Hall
+280,2775698,4468,4376,6456,57,Wanda,1,Wanda,n:prop,FAD,Female,Adult,4458.0,57.00117045524551,Summer,female,imperative_emphatic,,,,3,Eng-NA,1.0,eng,Hall
+281,2775707,4462,4377,6456,57,call her tell her to come over here,8,call her tell her to come over here,v pro:obj v pro:obj inf v adv adv,MAD,Male,Adult,4458.0,57.00117045524551,Summer,female,declarative,,,,3,Eng-NA,8.0,eng,Hall
+282,2775729,4462,4378,6456,57,I'll talk to her,4,I talk to her,pro:sub v prep pro:obj,MAD,Male,Adult,4458.0,57.00117045524551,Summer,female,declarative,,,,3,Eng-NA,5.0,eng,Hall
+283,2775738,4468,4379,6456,57,Wanda,1,Wanda,n:prop,FAD,Female,Adult,4458.0,57.00117045524551,Summer,female,declarative,,,,3,Eng-NA,1.0,eng,Hall
+284,2775752,4462,4381,6456,57,xxx,1,,,MAD,Male,Adult,4458.0,57.00117045524551,Summer,female,declarative,,,,3,Eng-NA,,eng,Hall
+285,2775759,4468,4382,6456,57,xxx,1,,,FAD,Female,Adult,4458.0,57.00117045524551,Summer,female,declarative,,,,3,Eng-NA,,eng,Hall
+286,2790334,4395,7159,6449,57,let him out Bobby,4,let him out Bobby,v pro:obj adv n:prop,FAD,Female,Adult,4032.0,57.00117045524551,Bobby,male,declarative,,,,3,Eng-NA,5.0,eng,Hall
+287,2790347,4394,7160,6449,57,oh yeah,2,oh yeah,co co,MAD,Male,Adult,4032.0,57.00117045524551,Bobby,male,question,,,,3,Eng-NA,2.0,eng,Hall
+288,3239118,4957,667,7331,72,that's daddy's game,3,that daddy game,pro:dem n n,LIN,lindy,Adult,4948.0,36.000739234891896,Baxter,male,declarative,,,,3,Eng-NA,5.0,eng,Bohannon
+289,3239140,4958,668,7331,72,here pick up your penny,5,here pick up your penny,adv v prep det:poss n,RUS,Russel,Adult,4948.0,36.000739234891896,Baxter,male,declarative,,,,3,Eng-NA,5.0,eng,Bohannon
+290,9896870,14891,10,25506,201,please,1,please,co,SID,,Adult,14879.0,23.9532639273907,Ellen,female,declarative,,,,13,Eng-UK,1.0,eng,Wells
+291,9896885,14890,11,25506,201,xxx xxx,2,,,REN,Rene,Adult,14879.0,23.9532639273907,Ellen,female,declarative,,,,13,Eng-UK,,eng,Wells
+292,9896963,14890,14,25506,201,xxx,1,,,REN,Rene,Adult,14879.0,23.9532639273907,Ellen,female,declarative,,,,13,Eng-UK,,eng,Wells
+293,9896973,14891,15,25506,201,please,1,please,co,SID,,Adult,14879.0,23.9532639273907,Ellen,female,declarative,,,,13,Eng-UK,1.0,eng,Wells
+294,9897034,14891,18,25506,201,do you want one of these forms Rene doll,9,do you want one of these form Rene doll,mod pro:per v det:num prep det:dem v n:prop n,SID,,Adult,14879.0,23.9532639273907,Ellen,female,question,,,,13,Eng-UK,10.0,eng,Wells
+295,9897069,14890,19,25506,201,I can't,2,I can,pro:sub mod,REN,Rene,Adult,14879.0,23.9532639273907,Ellen,female,declarative,,,,13,Eng-UK,3.0,eng,Wells
+296,9897080,14890,20,25506,201,because they won't let me,5,because they will let me,conj pro:sub mod v pro:obj,REN,Rene,Adult,14879.0,23.9532639273907,Ellen,female,declarative,,,,13,Eng-UK,7.0,eng,Wells
+297,9897104,14891,21,25506,201,of course they will,4,of course they will,prep n pro:sub mod,SID,,Adult,14879.0,23.9532639273907,Ellen,female,declarative,,,,13,Eng-UK,4.0,eng,Wells
+298,9897181,14890,23,25506,201,you're wrong,2,you wrong,pro:per adj,REN,Rene,Adult,14879.0,23.9532639273907,Ellen,female,declarative,,,,13,Eng-UK,3.0,eng,Wells
+299,9897196,14891,24,25506,201,on there,2,on there,prep adv,SID,,Adult,14879.0,23.9532639273907,Ellen,female,declarative,,,,13,Eng-UK,2.0,eng,Wells
+300,9897383,14891,33,25506,201,yeh you would,3,yeh you will,co pro:per mod,SID,,Adult,14879.0,23.9532639273907,Ellen,female,declarative,,,,13,Eng-UK,4.0,eng,Wells
+301,9897402,14890,34,25506,201,I know I xxx easy,5,I know I ease,pro:sub v pro:sub adj,REN,Rene,Adult,14879.0,23.9532639273907,Ellen,female,declarative,,,,13,Eng-UK,6.0,eng,Wells
+302,9897402,14890,34,25506,201,I know I xxx easy,5,I know I ease,pro:sub v pro:sub adj,REN,Rene,Adult,14879.0,23.9532639273907,Ellen,female,declarative,,,,13,Eng-UK,6.0,eng,Wells
+303,9897430,14891,35,25506,201,fine,1,fine,adv,SID,,Adult,14879.0,23.9532639273907,Ellen,female,declarative,,,,13,Eng-UK,1.0,eng,Wells
+304,9897444,14891,36,25506,201,what's happening,2,what happen,pro:int part,SID,,Adult,14879.0,23.9532639273907,Ellen,female,question,,,,13,Eng-UK,4.0,eng,Wells
+305,9897456,14890,37,25506,201,xxx to get a rebate,5,to get a rebate,inf v det:art n,REN,Rene,Adult,14879.0,23.9532639273907,Ellen,female,declarative,,,,13,Eng-UK,4.0,eng,Wells
+306,9897456,14890,37,25506,201,xxx to get a rebate,5,to get a rebate,inf v det:art n,REN,Rene,Adult,14879.0,23.9532639273907,Ellen,female,declarative,,,,13,Eng-UK,4.0,eng,Wells
+307,9897481,14891,38,25506,201,xxx,1,,,SID,,Adult,14879.0,23.9532639273907,Ellen,female,declarative,,,,13,Eng-UK,,eng,Wells
+308,9897647,14891,44,25506,201,mind you xxx,3,mind you,v pro:per,SID,,Adult,14879.0,23.9532639273907,Ellen,female,declarative,,,,13,Eng-UK,2.0,eng,Wells
+309,9897663,14890,45,25506,201,xxx,1,,,REN,Rene,Adult,14879.0,23.9532639273907,Ellen,female,declarative,,,,13,Eng-UK,,eng,Wells
+310,9904122,14902,346,25511,201,what you got there,4,what you get there,pro:int pro:per v adv,JAN,Janet,Adult,14879.0,39.132220374134995,Ellen,female,question,,,,13,Eng-UK,5.0,eng,Wells
+311,9904153,14900,347,25511,201,um,1,,,OTH,Unknown,Adult,14879.0,39.132220374134995,Ellen,female,declarative,,,,13,Eng-UK,,eng,Wells
+312,9904332,14902,353,25511,201,,0,,,JAN,Janet,Adult,14879.0,39.132220374134995,Ellen,female,declarative,,,,13,Eng-UK,,eng,Wells
+313,9904341,14900,354,25511,201,I think they're better eating,5,I think they good eat,pro:sub v pro:sub adj part,OTH,Unknown,Adult,14879.0,39.132220374134995,Ellen,female,declarative,,,,13,Eng-UK,8.0,eng,Wells
+314,9904369,14902,355,25511,201,she'll be,2,she be,pro:sub cop,JAN,Janet,Adult,14879.0,39.132220374134995,Ellen,female,trail off,,,,13,Eng-UK,3.0,eng,Wells
+315,9904394,14900,356,25511,201,goodbye then,2,goodbye then,co adv:tem,OTH,Unknown,Adult,14879.0,39.132220374134995,Ellen,female,declarative,,,,13,Eng-UK,2.0,eng,Wells
+316,9904408,14900,357,25511,201,xxx,1,,,OTH,Unknown,Adult,14879.0,39.132220374134995,Ellen,female,declarative,,,,13,Eng-UK,,eng,Wells
+317,9904419,14902,358,25511,201,yeh,1,yeh,co,JAN,Janet,Adult,14879.0,39.132220374134995,Ellen,female,declarative,,,,13,Eng-UK,1.0,eng,Wells
+318,9904708,14902,367,25511,201,won't they,2,will they,mod pro:sub,JAN,Janet,Adult,14879.0,39.132220374134995,Ellen,female,question,,,,13,Eng-UK,3.0,eng,Wells
+319,9904718,14900,368,25511,201,yeh,1,yeh,co,OTH,Unknown,Adult,14879.0,39.132220374134995,Ellen,female,declarative,,,,13,Eng-UK,1.0,eng,Wells
+320,9904768,14900,370,25511,201,got another xxx now,4,get another now,v qn adv,OTH,Unknown,Adult,14879.0,39.132220374134995,Ellen,female,declarative,,,,13,Eng-UK,4.0,eng,Wells
+321,9904789,14902,371,25511,201,um,1,,,JAN,Janet,Adult,14879.0,39.132220374134995,Ellen,female,question,,,,13,Eng-UK,,eng,Wells
+322,9904910,14902,377,25511,201,I xxx,2,I,pro:sub,JAN,Janet,Adult,14879.0,39.132220374134995,Ellen,female,declarative,,,,13,Eng-UK,1.0,eng,Wells
+323,9904927,14900,378,25511,201,xxx,1,,,OTH,Unknown,Adult,14879.0,39.132220374134995,Ellen,female,declarative,,,,13,Eng-UK,,eng,Wells
